@@ -1,11 +1,1 @@
-﻿  Source.cpp
-D:\Work\GenesisTool\GFXapi\GFXapi\Shader.h(44,40): warning C4101: 'e': unreferenced local variable
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(233,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(350,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(351,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(355,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(356,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(358,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(359,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Work\GenesisTool\GFXapi\GFXapi\Source.cpp(368,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  GFXapi.vcxproj -> D:\Work\GenesisTool\GFXapi\x64\Debug\GFXapi.exe
+﻿  GFXapi.vcxproj -> D:\Work\GenesisTool\GFXapi\x64\Debug\GFXapi.exe
